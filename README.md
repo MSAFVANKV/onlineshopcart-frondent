@@ -11,7 +11,7 @@
 
 ## Requirements
 
-This project requires NodeJS, NPM and Angular CLI installed on your machine. You can download them [here](https://nodejs.org
+This project requires NodeJS, NPM installed on your machine. You can download them [here](https://nodejs.org
 For this task, you will need NodeJS (version 14 or higher) installed on your machine along with npm package manager. You should
 For this project, you will need NodeJS installed on your computer. You can download it [here](https://nodejs.org/en
 
