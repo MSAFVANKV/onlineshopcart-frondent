@@ -9,6 +9,14 @@
 - Provide an option for users to empty their entire shopping cart at once.
 - Provide an option for Increace and Decrease the cart qty.
 
+## Dependencies
+
+- axios
+- react-router-dom
+- react-toastify
+- react-redux
+- @reduxjs/toolkit
+
 ## Requirements
 
 This project requires NodeJS, NPM installed on your machine. You can download them [here](https://nodejs.org
